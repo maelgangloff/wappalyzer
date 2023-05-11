@@ -2954,6 +2954,26 @@
     "saas": true,
     "website": "https://promobuilding.ru"
   },
+  "Pronote": {
+    "cats": [
+      1,
+      21
+    ],
+    "description": "Pronote is an Education Management Software developed by Index Education.",
+    "icon": "Pronote.png",
+    "meta": {
+      "application-name": "PRONOTE"
+    },
+    "headers": {
+      "server": "PRONOTE [\\d]+ - ([.\\d]+)\\;version:\\1 "
+    },
+    "oss": false,
+    "pricing": [
+      "mid",
+      "recurring"
+    ],
+    "website": "https://www.index-education.com/fr/logiciel-gestion-vie-scolaire.php"
+  },
   "Proton Mail": {
     "cats": [
       30
